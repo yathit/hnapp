@@ -1,5 +1,5 @@
 name: hnapp
-description: A redable Hacker News web site in mobile app
+description: A readable Hacker News web site in mobile app
 
 version: 1.0.0+1
 
@@ -16,7 +16,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
 
 
 flutter:
